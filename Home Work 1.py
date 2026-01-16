@@ -8,5 +8,5 @@ print(numbers)
 sum=sum(numbers)
 print(sum)
 #And, you can make a set, which removes duplicates and then counts how many items are in that set.
-LukasList = len(set(numbers))
-print(LukasList)
+LukasList1 = len(set(numbers))
+print(LukasList1)
